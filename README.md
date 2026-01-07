@@ -57,6 +57,17 @@ Each of these queries is **self-contained** in `04_analysis_queries.sql` and can
 
 ---
 
+### Sample Query Outputs
+
+**Students Table**
+![Students Output](screenshots/01_students_output.png)
+
+**Courses Table**
+![Courses Output](screenshots/02_courses_output.png)
+
+**Enrollments Table**
+![Enrollments Output](screenshots/03_enrollments_output.png)
+
 ## ▶️ How to Run This Project
 
 1. Ensure PostgreSQL server is running on your machine  
